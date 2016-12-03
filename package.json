@@ -1,0 +1,25 @@
+{
+  "name": "restjs",
+  "company": "Azuqua, inc.",
+  "version": "0.1.0",
+  "description": "Lightweight REST client",
+  "author": "Kevin McTigue",
+  "private": true,
+  "main": "index",
+  "dependencies": {
+    "async": "0.2.10",
+    "qs": "^4.0.0",
+    "xml2js": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azuqua/restjs"
+  },
+  "keywords": [
+    "rest",
+    "http"
+  ],
+  "engines": {
+    "node": "~0.12.2"
+  }
+}
